@@ -360,6 +360,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 *Webchats.*
 
 * [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node.
+* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - A self hosted alternative to Slack, built with Meteor.
 
 ## Monitoring
 
